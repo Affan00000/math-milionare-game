@@ -1,0 +1,79 @@
+.bodovi{
+	border: 3px solid white;
+	border-radius: 3px;
+	height: 35px;
+	width: 200px;
+	list-style-type: none;
+	margin-left: -55px;
+	text-align: center;
+	margin-top: 5px;
+	color: white;
+	background:rgb(0,157,196); 
+
+}
+#listaBodova {
+	margin-top: 50px;
+}
+#skala{ 
+	float: right;
+	height: 700px;
+	width: 200px;
+	margin-right: 350px;
+	 margin-top:-650px;
+	display: none; 
+}
+.pitanja{
+	width: 600px;
+	height: 600px;
+	border-radius: 5px;
+	border: 3px solid white;
+	background-color:rgba(0,157,196,1);
+	margin-left: 33%;
+	margin-top: 10px;
+	display: none;
+	/*visibility: hidden;*/
+}
+.dugmici{
+	height: 60px;
+	width: 250px;
+	border: 1px solid yellow;
+	margin: 20px;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	border-radius: 5px;
+	
+}
+.dugmici2{
+	height: 50px;
+	width: 150px;
+	border: 1px solid white;
+	margin-top:40px;
+	margin-left: 35px;
+
+}
+.pitanje{
+	width: 100px;
+	height:80px;
+	margin-left: 10px;
+	margin-top: 30px;
+	text-align: center;
+	border: 1px solid yellow;
+	border-radius:5px;
+	
+	font-weight: bold;
+	font-size: 40px;
+
+	 }
+
+#imePrezime{
+	height: 60px;
+	width: 350px;
+	border: 1px solid yellow;
+	margin: 20px;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	border-radius: 5px;
+	display: none;
+}
